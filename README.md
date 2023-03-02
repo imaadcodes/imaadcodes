@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on freelance projects
-- 📫 How to reach me @alfacodes
+- 📫 How to reach me instagram: @alfawhocodes
 
 <!---
 imaadcodes/imaadcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
