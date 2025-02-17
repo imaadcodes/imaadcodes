@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaadcodes
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter
+- 👀 I am a software developer
+- 🌱 I develop both Mobile apps and Websites
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me instagram: @1maadshaikh
 
